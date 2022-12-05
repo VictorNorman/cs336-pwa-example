@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cs336-pwa-example": {
+      "hosting": {
+        "app": [
+          "cs336-pwa-example"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cs336-pwa-example"
+  }
+}
